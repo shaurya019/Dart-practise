@@ -21,4 +21,8 @@ var m1= {
 };
 print(m1);
 
+
+  var M = Map();
+M['Key1'] = 5;
+print(M);
 }
