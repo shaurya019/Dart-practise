@@ -11,4 +11,14 @@ m['Key1'] = 5;
 print(m);
 m['key1'] = 'sps';
 print(m);
+
+
+var m1= {
+  'name' : 'shaurya',
+  'sdsss' : 1,
+  'iuaef' : 2.0,
+  'ked' : true
+};
+print(m1);
+
 }
