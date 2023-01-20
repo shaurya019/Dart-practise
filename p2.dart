@@ -14,10 +14,9 @@ void main(){
   BigInt longValue;
   longValue = BigInt.parse('9457130429492345083045724370397320');
   print(longValue);
-
+  //double == num
+  num per = 99.96;
+  bool islogin = false;
+  print(per);
   Human();
-}
-
-class Human{
-
 }
